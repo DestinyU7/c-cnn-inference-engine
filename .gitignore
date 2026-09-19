@@ -1,0 +1,14 @@
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+.vscode/
+.idea/
+
+*.o
+*.out
+*.exe
+simple_cnn
+__pycache__/
+*.pyc
